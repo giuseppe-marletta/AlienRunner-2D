@@ -18,3 +18,8 @@
   Autore: Dustyroom  
   Link: [Itch.io - Casual Game SFX Pack](https://dustyroom.itch.io/free-casual-game-sfx-pack)  
   Licenza: Royalty-free – Uso commerciale consentito con attribuzione
+
+
+The included assets (audio/graphics) are used for demonstration purposes only,
+in accordance with their original licenses. They are not to be redistributed or reused
+outside the context of this project. See individual asset licenses for details.
