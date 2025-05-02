@@ -15,7 +15,7 @@ Vestirai i panni di un alieno rosa, con l'obiettivo testare i confini della sopr
 
 - **A / D**: Muovi il personaggio
 - **Spazio**: Salta
-- **Tasto destro del muose**: Colpisci
+- **Tasto sinistro del muose**: Colpisci
 
 
 ## 🛠 Requisiti e compilazione
